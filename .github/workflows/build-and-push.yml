@@ -9,7 +9,7 @@ on:
         type: choice
         options:
           - context1
-          - context1
+          - context2
 
 env:
   REGISTRY: ghcr.io
